@@ -4,7 +4,7 @@
 
     <groupId>com.hamza</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -47,6 +47,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:helahi3/spring-pet-clinic.git</developerConnection>
-    </scm>
+      <tag>spring-pet-clinic-0.0.3</tag>
+  </scm>
 
 </project>
