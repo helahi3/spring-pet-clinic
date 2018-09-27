@@ -9,6 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class SpringPetClinicApplicationTests {
 
+
     @Test
     public void contextLoads() {
     }
